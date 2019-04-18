@@ -1,0 +1,14 @@
+C:\Users\tmarcott\source\repos\Hockey Text Game\Hockey Text Game\bin\Debug\Hockey Text Game.exe.config
+C:\Users\tmarcott\source\repos\Hockey Text Game\Hockey Text Game\bin\Debug\Hockey Text Game.exe
+C:\Users\tmarcott\source\repos\Hockey Text Game\Hockey Text Game\bin\Debug\Hockey Text Game.pdb
+C:\Users\tmarcott\source\repos\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.csprojAssemblyReference.cache
+C:\Users\tmarcott\source\repos\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.csproj.CoreCompileInputs.cache
+C:\Users\tmarcott\source\repos\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.exe
+C:\Users\tmarcott\source\repos\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.pdb
+C:\Users\travi\Desktop\Hockey-master\Hockey Text Game\Hockey Text Game\bin\Debug\Hockey Text Game.exe.config
+C:\Users\travi\Desktop\Hockey-master\Hockey Text Game\Hockey Text Game\bin\Debug\Hockey Text Game.exe
+C:\Users\travi\Desktop\Hockey-master\Hockey Text Game\Hockey Text Game\bin\Debug\Hockey Text Game.pdb
+C:\Users\travi\Desktop\Hockey-master\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.csprojAssemblyReference.cache
+C:\Users\travi\Desktop\Hockey-master\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.csproj.CoreCompileInputs.cache
+C:\Users\travi\Desktop\Hockey-master\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.exe
+C:\Users\travi\Desktop\Hockey-master\Hockey Text Game\Hockey Text Game\obj\Debug\Hockey Text Game.pdb
